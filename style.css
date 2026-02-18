@@ -1,0 +1,15 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+  background-color: rgb(198, 198, 230);
+}
+
+.box {
+  display: flex;
+  gap: 20px;
+}
+
+input, select, button {
+  padding: 15px;
+  font-size: 20px;
+}
